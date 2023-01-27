@@ -1,0 +1,8 @@
+Z:\BootcampCloned\Bootcamp\Final Project\eTickets\eTickets\obj\Debug\net5.0\eTickets.csproj.AssemblyReference.cache
+Z:\BootcampCloned\Bootcamp\Final Project\eTickets\eTickets\obj\Debug\net5.0\eTickets.GeneratedMSBuildEditorConfig.editorconfig
+Z:\BootcampCloned\Bootcamp\Final Project\eTickets\eTickets\obj\Debug\net5.0\eTickets.AssemblyInfoInputs.cache
+Z:\BootcampCloned\Bootcamp\Final Project\eTickets\eTickets\obj\Debug\net5.0\eTickets.AssemblyInfo.cs
+Z:\BootcampCloned\Bootcamp\Final Project\eTickets\eTickets\obj\Debug\net5.0\eTickets.csproj.CoreCompileInputs.cache
+Z:\BootcampCloned\Bootcamp\Final Project\eTickets\eTickets\obj\Debug\net5.0\eTickets.MvcApplicationPartsAssemblyInfo.cache
+Z:\BootcampCloned\Bootcamp\Final Project\eTickets\eTickets\obj\Debug\net5.0\eTickets.RazorAssemblyInfo.cache
+Z:\BootcampCloned\Bootcamp\Final Project\eTickets\eTickets\obj\Debug\net5.0\eTickets.RazorAssemblyInfo.cs
