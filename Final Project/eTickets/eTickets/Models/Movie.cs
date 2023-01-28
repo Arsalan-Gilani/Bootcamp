@@ -1,4 +1,4 @@
-﻿using eTickets.Data;
+﻿using eTickets.Data.Enums;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -18,5 +18,12 @@ namespace eTickets.Models
         public DateTime StartDate { get; set; }
         public DateTime EndDate { get; set; }
         public MovieCategory MovieCategory { get; set; }
+
+        //Relationships
+
+        public List<Actor_Movie> Actors_Movies { get; set; }
+
+        //Cinema
+        public Cinema Cinema { get; set; }
     }
 }
