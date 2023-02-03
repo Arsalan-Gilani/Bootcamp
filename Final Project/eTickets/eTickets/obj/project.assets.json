@@ -5797,24 +5797,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\DELL\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\gilanars\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Bootcamp\\Bootcamp\\Final Project\\eTickets\\eTickets\\eTickets.csproj",
+      "projectUniqueName": "Z:\\BootcampCloned\\Bootcamp\\Final Project\\eTickets\\eTickets\\eTickets.csproj",
       "projectName": "eTickets",
-      "projectPath": "D:\\Bootcamp\\Bootcamp\\Final Project\\eTickets\\eTickets\\eTickets.csproj",
-      "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "D:\\Bootcamp\\Bootcamp\\Final Project\\eTickets\\eTickets\\obj\\",
+      "projectPath": "Z:\\BootcampCloned\\Bootcamp\\Final Project\\eTickets\\eTickets\\eTickets.csproj",
+      "packagesPath": "C:\\Users\\gilanars\\.nuget\\packages\\",
+      "outputPath": "Z:\\BootcampCloned\\Bootcamp\\Final Project\\eTickets\\eTickets\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\gilanars\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5822,7 +5817,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

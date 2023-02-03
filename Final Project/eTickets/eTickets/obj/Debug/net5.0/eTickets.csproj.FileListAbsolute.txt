@@ -65,7 +65,8 @@ Z:\BootcampCloned\Bootcamp\Final Project\eTickets\eTickets\obj\Debug\net5.0\eTic
 Z:\BootcampCloned\Bootcamp\Final Project\eTickets\eTickets\obj\Debug\net5.0\eTickets.Views.pdb
 Z:\BootcampCloned\Bootcamp\Final Project\eTickets\eTickets\obj\Debug\net5.0\eTickets.csproj.CopyComplete
 Z:\BootcampCloned\Bootcamp\Final Project\eTickets\eTickets\obj\Debug\net5.0\eTickets.dll
-Z:\BootcampCloned\Bootcamp\Final Project\eTickets\eTickets\obj\Debug\net5.0\refint\eTickets.dll
 Z:\BootcampCloned\Bootcamp\Final Project\eTickets\eTickets\obj\Debug\net5.0\eTickets.pdb
 Z:\BootcampCloned\Bootcamp\Final Project\eTickets\eTickets\obj\Debug\net5.0\eTickets.genruntimeconfig.cache
 Z:\BootcampCloned\Bootcamp\Final Project\eTickets\eTickets\obj\Debug\net5.0\ref\eTickets.dll
+Z:\BootcampCloned\Bootcamp\Final Project\eTickets\eTickets\bin\Debug\net5.0\ref\eTickets.dll
+Z:\BootcampCloned\Bootcamp\Final Project\eTickets\eTickets\obj\Debug\net5.0\staticwebassets\eTickets.StaticWebAssets.xml
