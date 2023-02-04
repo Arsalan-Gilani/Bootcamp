@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "Z:\\BootcampCloned\\Bootcamp\\Final Project\\eTickets\\eTickets\\eTickets.csproj": {}
+    "C:\\Users\\gilanars\\source\\repos\\Bootcamp\\Final Project\\eTickets\\eTickets\\eTickets.csproj": {}
   },
   "projects": {
-    "Z:\\BootcampCloned\\Bootcamp\\Final Project\\eTickets\\eTickets\\eTickets.csproj": {
+    "C:\\Users\\gilanars\\source\\repos\\Bootcamp\\Final Project\\eTickets\\eTickets\\eTickets.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Z:\\BootcampCloned\\Bootcamp\\Final Project\\eTickets\\eTickets\\eTickets.csproj",
+        "projectUniqueName": "C:\\Users\\gilanars\\source\\repos\\Bootcamp\\Final Project\\eTickets\\eTickets\\eTickets.csproj",
         "projectName": "eTickets",
-        "projectPath": "Z:\\BootcampCloned\\Bootcamp\\Final Project\\eTickets\\eTickets\\eTickets.csproj",
+        "projectPath": "C:\\Users\\gilanars\\source\\repos\\Bootcamp\\Final Project\\eTickets\\eTickets\\eTickets.csproj",
         "packagesPath": "C:\\Users\\gilanars\\.nuget\\packages\\",
-        "outputPath": "Z:\\BootcampCloned\\Bootcamp\\Final Project\\eTickets\\eTickets\\obj\\",
+        "outputPath": "C:\\Users\\gilanars\\source\\repos\\Bootcamp\\Final Project\\eTickets\\eTickets\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gilanars\\AppData\\Roaming\\NuGet\\NuGet.Config",
